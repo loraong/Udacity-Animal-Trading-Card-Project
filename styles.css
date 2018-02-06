@@ -1,0 +1,35 @@
+.Label{
+	font-family:Georgia;
+	font-size:20px;
+	font-weigth: bold;
+	color: blue;
+}
+
+.fact{
+	font-style: italic;
+}
+
+.Content{
+	border-style: solid;
+	border-width:0.5px;
+	padding: 1em;
+	margin:10px 0px;
+}
+
+#Main {
+	border-style:ridge;
+	padding: 1em;
+	width: 300px;
+	margin: 20px;
+	box-shadow: 10px 10px;
+}
+
+.dots{
+	list-style:none;
+}
+
+.Name{
+	padding: 0.5em;
+	color: blue;
+	text-decoration: underline;
+}
